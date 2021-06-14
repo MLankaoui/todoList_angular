@@ -1,69 +1,29 @@
 {
   "tasks": [
     {
-      "label": "java",
-      "completed": true,
+      "label": "8:00 - 12:00 --------------  Maths",
+      "completed": false,
       "id": 1
     },
     {
-      "label": "mamama",
-      "completed": true,
+      "label": "12:00 - 14:00 ---------------istiraha",
+      "completed": false,
       "id": 2
     },
     {
-      "label": "mamama",
+      "label": "14:00 - 16:00 -------------------- svt",
       "completed": false,
       "id": 3
     },
     {
-      "label": "maroubdsqjfn",
+      "label": "16:00 - 18:00 ----------------- pc",
       "completed": false,
       "id": 4
     },
     {
-      "label": "dsfmjsdkfmjdskfj",
-      "completed": true,
+      "label": "18:00 - 22:00 -------------- learning motion design",
+      "completed": false,
       "id": 5
-    },
-    {
-      "label": "fsdmlfjdskmlfjksdmljf",
-      "completed": true,
-      "id": 6
-    },
-    {
-      "label": "qdqsdqsdqs",
-      "completed": true,
-      "id": 7
-    },
-    {
-      "label": "",
-      "completed": true,
-      "id": 8
-    },
-    {
-      "label": "",
-      "completed": true,
-      "id": 9
-    },
-    {
-      "label": "fqfsqfsqfsqf",
-      "completed": true,
-      "id": 10
-    },
-    {
-      "label": "fqsfsqfsqf",
-      "completed": true,
-      "id": 11
-    },
-    {
-      "label": "dfdfdsfsdf",
-      "completed": true,
-      "id": 12
-    },
-    {
-      "label": "fdsfdsfsdf",
-      "completed": true,
-      "id": 13
     }
   ]
 }
